@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MDCアドベントカレンダー',
+  title: 'vuepress',
   themeConfig: {
     sidebar: [
       '/',
