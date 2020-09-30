@@ -1,3 +1,1 @@
-# Hello Vuepress
-
-- こんにちは
+# npm start でとりあえず動かせるやつ
