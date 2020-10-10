@@ -1,1 +1,1 @@
-# npm start でとりあえず動かせるやつ
+# npx vuepress dev docs でとりあえず動かせるやつ
